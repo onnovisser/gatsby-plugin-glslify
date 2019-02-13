@@ -14,7 +14,10 @@
   "keywords": [
     "gatsby",
     "gatsby-plugin",
-    "glslify"
+    "glslify",
+    "glsl",
+    "webgl",
+    "shader"
   ],
   "license": "MIT",
   "main": "index.js",

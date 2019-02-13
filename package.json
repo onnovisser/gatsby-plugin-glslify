@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-plugin-glslify",
+  "description": "Import glsl/vert/frag files and process them with Glslify",
+  "version": "0.0.1",
+  "author": "Onno Visser <visser.onno@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/onnovisser/gatsby-plugin-glslify/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "glslify-loader": "^2.0.0"
+  },
+  "homepage": "https://github.com/onnovisser/gatsby-plugin-glslify#readme",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "glslify"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "repository": "https://github.com/onnovisser/gatsby/gatsby-plugin-glslify"
+}

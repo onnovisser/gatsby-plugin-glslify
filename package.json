@@ -7,7 +7,7 @@
     "url": "https://github.com/onnovisser/gatsby-plugin-glslify/issues"
   },
   "dependencies": {
-    "babel-plugin-glsl": "^0.0.1-alpha.2",
+    "babel-plugin-glsl": "1.0.0",
     "glslify-loader": "^2.0.0"
   },
   "devDependencies": {},
